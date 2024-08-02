@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
         } catch (err) {
-            authMsg.textContent = 'An error occured'
+            authMsg.textContent = 'An error occurred'
         }
     })
 
